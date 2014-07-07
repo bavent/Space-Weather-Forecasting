@@ -1,0 +1,10 @@
+Data Sources:
+
+Info: http://www.swpc.noaa.gov/SWN/sw_dials.html
+
+DST index on hourly intervals
+http://wdc.kugi.kyoto-u.ac.jp/dstae/index.html
+
+Dynamic Pressure / Bz / etc 
+ACE SWEPAM Level 2 Data
+http://www.srl.caltech.edu/ACE/ASC/level2/lvl2DATA_SWEPAM.html
