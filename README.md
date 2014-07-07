@@ -1,8 +1,8 @@
 Space-Weather-Forecasting
 =========================
 
-Nicholas Sharp <nsharp3@vt.edu>
-Brendan Avent <bavent@vt.edu>
+Nicholas Sharp &lt;nsharp3@vt.edu&gt; <br>
+Brendan Avent &lt;bavent@vt.edu&gt;
 
 Research code for space weather condition prediction using various machine learning methods.
 
