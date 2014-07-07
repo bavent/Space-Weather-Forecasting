@@ -1,6 +1,9 @@
 Space-Weather-Forecasting
 =========================
 
+Nicholas Sharp <nsharp3@vt.edu>
+Brendan Avent <bavent@vt.edu>
+
 Research code for space weather condition prediction using various machine learning methods.
 
 ![alt tag](https://filebox.ece.vt.edu/~s14ece6504/projects/baa18_nsharp3_space_weather/magnetosphere.jpg)
