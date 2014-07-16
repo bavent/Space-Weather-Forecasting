@@ -1,4 +1,4 @@
-# Run an Elman Recurrent Neural Network on the Space Weather data
+# Parses and pre-processes selected data from various data sources
 # Nicholas Sharp - nsharp3@vt.edu
 
 import numpy as np 
